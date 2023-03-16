@@ -1,5 +1,2 @@
-[2023-01-19T18:52:53.356] [WARN] loggerWarn - Ruta: /favicon.ico Metodo: GET
-[2023-01-20T18:56:21.582] [WARN] loggerWarn - Ruta: /HNAP1/ Metodo: GET
-[2023-01-20T18:56:46.543] [WARN] loggerWarn - Ruta: /requested.html Metodo: GET
-[2023-01-21T18:36:27.052] [WARN] loggerWarn - Ruta: /HNAP1/ Metodo: GET
-[2023-01-21T18:36:52.996] [WARN] loggerWarn - Ruta: /requested.html Metodo: GET
+{"level":"warn","message":"Route: /infoNoExiste Method: GET Error: Ruta no implementada"}
+{"level":"warn","message":"Route: /favicon.ico Method: GET Error: Ruta no implementada"}
