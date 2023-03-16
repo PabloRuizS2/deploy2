@@ -1,24 +1,18 @@
 {
-  "name": "server-express",
+  "name": "afterclass.railway",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./src/server.js",
   "type": "module",
   "scripts": {
-    "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Salva-perezz/salva-server.git"
+    "start": "node ."
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Salva-perezz/salva-server/issues"
-  },
-  "homepage": "https://github.com/Salva-perezz/salva-server#readme",
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.18.2",
+    "pino": "^8.11.0",
+    "pino-multi-stream": "^6.0.0"
   }
 }
